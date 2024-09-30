@@ -4,6 +4,5 @@ h5py
 pandas
 numpy
 scipy
-tensorflow>=2.12.0,<2.16.0
 pyabf
 PyQt5
